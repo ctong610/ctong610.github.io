@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-Ask me something!
+Feel free to write me at [name of site] at gmail dot com!
