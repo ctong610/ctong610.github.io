@@ -35,3 +35,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #put about to homepage test
 gem 'jekyll-redirect-from'
+
+gem "webrick", "~> 1.8"
