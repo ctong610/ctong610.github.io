@@ -13,7 +13,7 @@ I'm an undergraduate student at MIT double majoring in physics and math. I am ge
 
 **What are you up to?**
 
-I am a summer intern at [IBM Research](https://research.ibm.com/) studying error mitigation and correction strategies for practical quantum computation. Additionally, I am 
+I am a summer intern at [IBM Research](https://research.ibm.com/) studying error suppression strategies for practical quantum computation. Additionally, I am 
 * Studying novel metallo-organic systems for quantum sensing applications in the [Freedman lab](https://freedmanlab-mit.com/) at MIT
 * Expanding on my work on stochastic methods for solid state magnetism from the [MIT Physics Directed Reading Program](https://phys-drp.mit.edu/) 
 * Maintaining this website
