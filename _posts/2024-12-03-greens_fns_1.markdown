@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Green's functions and density operators - a broader picture"
+date:   2024-12-03 16:38:00 -0500
+categories: jekyll update
+---
+Green's functions are encountered in various self-contained contexts throughout math and science: as a general method for solving inhomogenous differential equations, as propagators for the dynamics of physical systems under a given Hamiltonian encoding an energetic landscape, or as a catch-all function capturing stationary eigenstates describing steady-state behavior of complex systems, such as in a many-electron molecule. Although I had encountered these applications individually under the name of Green's functions, it was admittedly difficult for me to understand the true connection over all topics due to the siloed nature in which they were introduced. In a similar vein, I first learned about density operators in an introductory quantum mechanics course to describe the behavior of mixed quantum states; although such an object seemed straightforward to capture populations and coherences in a quantum system, I feel that I took things for granted - why is it called a *density* matrix if only the diagonal elements represent densities? Why does such a mathematical expression lend itself well to describing experimental quantum physics? And what does this have anything to do with Green's functions??? I recently had the chance to think deeply about the fundamental nature of the information encapsulated in a Green's function, and how it relates to density operators, when writing my [final paper for 18.335]({{ site.url }}{{ site.baseurl }}/assets/335_final_paper.pdf), a course in numerical methods at MIT taught by Prof. John Urschel. 
+
+My full work describing how I see such interdisciplinary connections with Green's functions is a work in progress - will be updated as I write more!
